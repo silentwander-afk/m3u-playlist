@@ -1,0 +1,90 @@
+#EXTM3U
+#PLAYLIST:My IPTV Selection - CODECS.COM
+
+#EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Animation",Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="Animation",ANIME x HIDIVE (720p) [Geo-blocked]
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crunchyroll.us@SD" tvg-logo="https://i.imgur.com/2FlIQUO.png" group-title="Animation",Crunchyroll (720p)
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Animation",FilmRise Anime (720p)
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Animation",Naruto (1080p)
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Narutoenespanol.us@SD" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="Animation",Naruto
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+
+#EXTINF:-1 tvg-id="Placid.us@EastHD" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" group-title="Animation",Placid (1080p) [Not 24/7]
+https://toy.vcdn.fyi/placid/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@US" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="Animation",Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimeMovies.us@SD" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" group-title="Animation",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Animation;Kids",Nickelodeon Pluto TV (720p)
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPokemon.us@US" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Animation;Kids",Pokémon
+https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us@SD" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Auto",Pluto TV Cars
+https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us@SD" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation (1080p)
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="Auto",Discovery Turbo (720p)
+https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel (720p)
+http://190.14.10.19:16000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
+http://40.160.24.52/DISNEY_XD_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD West (480p)
+http://tvsen5.aynascope.net/disneyxd/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
+https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
+
+#EXTINF:-1 tvg-id="NHRATV.us@SD" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV (1080p)
+https://d265y4sk8257lt.cloudfront.net/nh.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@US" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor;Sports",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (720p)
+http://40.160.24.53/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (720p)
+http://40.160.24.53/NAT_GEO_WILD/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD East (720p)
+http://198.58.104.90:8989/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p)
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (720p)
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+
